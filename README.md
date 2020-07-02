@@ -1,2 +1,4 @@
 # hello-world
-Learning githib with Hello World!
+Learning github with Hello World!
+
+I realy like GitHub
